@@ -36,5 +36,39 @@ Principais resultados ou discussões (com suas palavras):
 
 Lacunas apontadas pelos autores ao final do texto e sugestões para pesquisas futuras:
 
+PARTE I: ESTATÍSTICA APLICADA 
+PARTE I.1 Introdução 
+*Capítulo 1* Tipos de Variáveis e Escalas de Mensuração e Precisão 
 
+PARTE I.2: Estatística Descritiva 
+*Capítulo 2* Estatística Descritiva Univariada 
+*Capítulo 3* Estatística Descritiva Bivariada 
+
+PARTE I.3: Estatística Probabilística 
+*Capítulo 4* Introdução à Probabilidade 
+*Capítulo 5* Variáveis Aleatórias e Distribuições de Probabilidade 
+
+Parte I.4: Estatística Inferencial 
+*Capítulo 6* Amostragem 
+*Capítulo 7* Testes de Hipóteses 
+*Capítulo 8* Testes Não Paramétricos 
+
+PARTE II: TÉCNICAS MULTIVARIADAS EXPLORATÓRIAS 
+*Capítulo 9* Análise de Agrupamentos 
+*Capítulo 1O* Análise Fatorial por Componentes Principais 
+*Capítulo 1l* Análise de Correspondência Simples e Múltipla 
+
+PARTE III: TÉCNICAS MULTIVARIADAS CONFIRMATÓRIAS: MODELOS DE REGRESSÃO 
+PARTE III.1: Modelos Lineares Generalizados 
+*Capítulo 12* Modelos de Regressão Simples e Múltipla 
+*Capítulo 13* Modelos de Regressão Logística Binária e Multinomial 
+*Capítulo 14* Modelos de Regressão para Dados de Contagem: Poisson e Binomial Negativo 
+
+PARTE III.2: Modelos de Regressão para Dados em Painel 
+*Capítulo 15* Modelos Longitudinais de Regressão para Dados em Painel 
+*Capítulo 16* Modelos Multinível de Regressão para Dados em Painel 
+
+PARTE III.3: Outros Modelos de Regressão 
+*Capítulo 17* Modelos de Regressão para Dados de Sobrevivência: Riscos Proporcionais de Cox 
+*Capítulo 18* Modelos de Regressão com Múltiplas Variáveis Dependentes: Correlação Canônica 
 
