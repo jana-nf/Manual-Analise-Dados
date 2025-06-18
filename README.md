@@ -24,7 +24,7 @@ FÁVERO, Luiz Paulo Lopes e BELFIORE, Patrícia Prado. Manual de análise de dad
 
 Palavras-chave:
 
-Objetivo do livro: 
+Objetivo do livro: Apresentar as potencialidades das principais técnicas estatísticas e de modelagem multivariada voltada para a tomada de decisões na análise de dados em ambientes acadêmicos e organizacionais, que será experimentado pelo pesquisador na medida em que seus procedimentos e benefícios sejam cada vez mais exercitado com cautela na definição da técnica, visto que a escolha das alternativas mais adequadas para o tratamento dos dados depende fundamentalmente deste tempo de prática e exercício. O principal objetivo deste livro é explicitar a hierarquia entre dados, informação e conhecimento, que somados a ocorrência simultânea da disponibilidade de dados em cinco dimensões como o volume, velocidade, variedade, variabilidade e complexidade dos dados, originando o Big Data, que é a principal razão pela qual as organizações atuantes investem na estruturação e no desenvolvimento de áreas multidisciplinares conhecidas como Business Analytics, que geram informações das organizações através de predição em tempo real frente ao mercado e competidores.
 
 Principais autores usados no referencial teórico:
 
